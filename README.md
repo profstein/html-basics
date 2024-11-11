@@ -1,2 +1,2 @@
 # html-basics
-in class repo
+This is a basic mostly blank starter repository to learn HTML and CSS.
